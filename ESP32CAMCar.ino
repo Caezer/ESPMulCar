@@ -43,8 +43,8 @@ int ambient;
 
 
 // Replace with your network credentials
-const char* ssid = "yamete kudasai";
-const char* password = "absentmindedness";
+const char* ssid = "yourssid";
+const char* password = "yourpassword";
 
 
 
